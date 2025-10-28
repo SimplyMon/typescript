@@ -7,7 +7,9 @@ let notAssigned: undefined = undefined;
 
 let dynamicValue: any = "hello";
 dynamicValue = 42;
- 
+
 let multiType: string | number;
 multiType = "hello";
 multiType = 100;
+
+console.log(userName);
