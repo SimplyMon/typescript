@@ -13,3 +13,4 @@ multiType = "hello";
 multiType = 100;
 
 console.log(userName);
+console.log(userName);
